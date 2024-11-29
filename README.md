@@ -7,7 +7,7 @@
 
 ## Features
 
-### Core Functionality:
+### Core Functionality
 1. **Virtual Try-On**:
    - Use AR to visualize clothing items on a 3D model or the user in real-time.
    - Adjust clothing fit based on user measurements for better accuracy.
