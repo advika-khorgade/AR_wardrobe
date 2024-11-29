@@ -64,7 +64,4 @@ Drive link: https://drive.google.com/drive/folders/1WLztTAepJLzfBMI_acX5VS3J9hUs
 - Node.js and npm installed.
 - AR-supported device.
 
-### Steps:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ar-wardrobe.git
+
